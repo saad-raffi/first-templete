@@ -5,6 +5,7 @@ body{
 }
 .intro-banner{
     display: flex;
+    margin-bottom: 150px;
     
 
 }
@@ -38,7 +39,7 @@ p{
 .item-info{
     display: flex;
     width: 90%;
-    padding-left:100px;
+    padding-left:50px;
     justify-content: space-around;
     font-size: 25px;
 
@@ -57,4 +58,54 @@ h2{
     font-weight: 700;
     color: white;
 }
+h4{
+    font-size: 16px;
+    color: burlywood;
+}
+h3{
+    font-size: 16px;
+    color:rgb(201, 198, 206);
+}
+.food-cart03{
+    /* border: rgb(150, 12, 241) solid; */
+    border-left:rgb(150, 12, 241) solid ;
+    background-image: url(img/burgers/b3.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 350px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.food-cart02{
+    /* border: rgb(150, 12, 241) solid; */
+    border-left:rgb(150, 12, 241) solid ;
+    background-image: url(img/burgers/b2.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 350px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.food-cart01{
+    /* border: rgb(150, 12, 241) solid; */
+    border-left:rgb(150, 12, 241) solid ;
+    background-image: url(img/burgers/b1.png);
 
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 200px;
+    width: 350px;
+    border-radius: 5px;
+    
+    padding: 10px;
+}
+a{
+background-color: rgb(156, 131, 246);
+padding: 10px 10px;
+text-decoration: none;
+color: rgb(33, 6, 65);
+border-radius: 10px;
+font-size: 18px;
+}
