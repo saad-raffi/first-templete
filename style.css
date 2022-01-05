@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(39, 6, 70);
+    font-family: 'Poppins', sans-serif;
+    margin: 5px;
+}
+.intro-banner{
+    display: flex;
+    
+
+}
+.tummy{
+    color: goldenrod;
+}
+h1{
+    font-size: 60px;
+    color:white;
+    padding-top: 50px;
+    padding: 5%;
+    font-weight: 700;
+}
+p{
+    color: rgb(228, 219, 186);
+    padding: 5%;
+    padding-top: 1%;
+    font-size: 20px;
+
+}
+.img-01{
+    height: 720px;
+}
+.btn-1{
+    padding: 10px 20px;
+    font-size: 24px;
+    margin-left: 35px;
+    background-color: goldenrod;
+    border-radius: 5px;
+}
