@@ -35,3 +35,26 @@ p{
     background-color: goldenrod;
     border-radius: 5px;
 }
+.item-info{
+    display: flex;
+    width: 90%;
+    padding-left:100px;
+    justify-content: space-around;
+    font-size: 25px;
+
+}
+.food-cart{
+    height: 10%;
+    width: 30%;
+}
+.food-item{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+
